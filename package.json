@@ -1,5 +1,5 @@
 {
-  "name": "assetsheld-tailwind",
+  "name": "@garrett9/assetsheld-tailwind",
   "version": "1.0.0",
   "description": "A custom TailwindCSS configuration for the AssetsHeld eco-system.",
   "main": "index.js",
@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "vite": "^3.1.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrett9/assetsheld-tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garrett9/assetsheld-tailwind/issues"
+  },
+  "homepage": "https://github.com/garrett9/assetsheld-tailwind#readme"
 }
