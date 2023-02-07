@@ -6,14 +6,12 @@ module.exports = {
     content: [
         "./vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php",
         "./vendor/laravel/jetstream/**/*.blade.php",
+        "./vendor/assetsheld/assetsheld-front-end-utils/resources/views/*.bade.php",
         "./storage/framework/views/*.php",
         "./resources/views/**/*.blade.php",
     ],
 
     safelist: process.env.NODE_ENV === 'development' ? [
-        {
-            pattern: /.*/
-        },
         '2xl:max-w-6xl',
         'xl:max-w-5xl',
         'lg:max-w-3xl',
