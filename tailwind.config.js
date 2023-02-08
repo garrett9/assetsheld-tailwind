@@ -11,12 +11,7 @@ module.exports = {
         "./resources/views/**/*.blade.php",
     ],
 
-    safelist: process.env.NODE_ENV === 'development' ? [
-        '2xl:max-w-6xl',
-        'xl:max-w-5xl',
-        'lg:max-w-3xl',
-        'md:max-w-xl',
-    ] : [
+    safelist: [
         '2xl:max-w-6xl',
         'xl:max-w-5xl',
         'lg:max-w-3xl',
