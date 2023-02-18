@@ -1,6 +1,6 @@
 {
   "name": "assetsheld-tailwind",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A custom TailwindCSS configuration for the AssetsHeld eco-system.",
   "main": "index.js",
   "author": "garrett9",

@@ -7,6 +7,7 @@ module.exports = {
         "./vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php",
         "./vendor/laravel/jetstream/**/*.blade.php",
         "./vendor/assetsheld/assetsheld-front-end-utils/resources/views/**/*.blade.php",
+        "./vendor/mediconesystems/livewire-datatables/resources/views/**/*.blade.php",
         "./storage/framework/views/*.php",
         "./resources/views/**/*.blade.php",
     ],
