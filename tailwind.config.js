@@ -8,6 +8,7 @@ module.exports = {
         "./vendor/laravel/jetstream/**/*.blade.php",
         "./vendor/assetsheld/assetsheld-front-end-utils/resources/views/**/*.blade.php",
         "./vendor/mediconesystems/livewire-datatables/resources/views/**/*.blade.php",
+        "./vendor/wire-elements/modal/resources/views/**/*.blade.php",
         "./storage/framework/views/*.php",
         "./resources/views/**/*.blade.php",
     ],
